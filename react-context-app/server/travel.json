@@ -1,0 +1,39 @@
+{
+  "countries": [
+    {
+      "name": "America",
+      "ImagePath": "/images/america.jpeg",
+      "description": "Good America"
+    },
+    {
+      "name": "England",
+      "ImagePath": "/images/england.jpeg",
+      "description": "Good England"
+    },
+    {
+      "name": "Germany",
+      "ImagePath": "/images/germany.jpeg",
+      "description": "Good Germany"
+    },
+    {
+      "name": "Portland",
+      "ImagePath": "/images/portland.jpeg",
+      "description": "Good Portland"
+    }
+  ],
+
+  "options": [
+    {
+      "name": "Insutrance",
+      "description": "안전한 여행을 위해서!" 
+    },
+    {
+      "name": "Dinner",
+      "description": "맛있는 저녁과 함께하는 여행!" 
+    },
+    {
+      "name": "Insutrance",
+      "description": "편안한 비행을 위해서!" 
+    }
+  ]
+}
